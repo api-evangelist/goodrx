@@ -1,0 +1,71 @@
+{
+    "name": "GoodRx",
+    "description": "Compare prescription drug prices and find coupons at more than 60,000 US pharmacies. Save up to 80% instantly!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1290-goodrx.jpg",
+    "tags": [
+        "api provider",
+        "comparison",
+        "drug interactions",
+        "drug prices",
+        "drugs",
+        "have api",
+        "pharmaceutical",
+        "profile",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/goodrx\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GoodRx",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1290-goodrx.jpg",
+            "humanURL": "http:\/\/www.goodrx.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/goodrx-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/goodrx-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.goodrx.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/goodrx"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/goodrx"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.goodrx.com\/developer"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/GoodRx"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GoodRx"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.goodrx.com"
+        }
+    ]
+}
